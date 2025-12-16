@@ -5,6 +5,10 @@ A simple task management dashboard built with React and TypeScript for tracking 
 
 ![Task Dashboard Screenshot](public/screenshot.png)
 
+## Live Demo
+
+Check out the live application: [https://react-taskboard.netlify.app/](https://react-taskboard.netlify.app/)
+
 ## Features
 
 - Create, read, update, and delete tasks
